@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "BeyondMess",
+    "slug": "mess-menu-app",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.chirag_garg2002.messmenuapp"
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7d22b1f2-bfd5-4de7-ba20-2e321c57a5ec"
+      }
+    }
+  }
+}

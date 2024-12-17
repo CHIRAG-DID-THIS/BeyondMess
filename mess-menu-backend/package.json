@@ -1,0 +1,22 @@
+{
+  "name": "mess-menu-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "firebase": "^10.14.1",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.0",
+    "node-fetch": "^3.3.2"
+  }
+}
